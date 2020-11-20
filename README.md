@@ -14,4 +14,4 @@ Algorithm Engineer at Continental GmbH. :
 - LinkedIn: linkedin.com/in/julius-faubel-574516166/
 - E-mail: faubel.julius@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?fettespferd=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apifettespferdanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
