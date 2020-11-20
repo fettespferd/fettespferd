@@ -9,9 +9,9 @@ Algorithm Engineer at Continental GmbH. :
 - ⚡ Fun fact: Pong world champion in 2012 :D
 
 📫 How to reach me: 
-- StackOverflow: stackoverflow.com/julius-faubel
-- GitHub: github.com/fettespferd
-- LinkedIn: linkedin.com/in/julius-faubel-574516166/
+- StackOverflow: www.stackoverflow.com/julius-faubel
+- GitHub: www.github.com/fettespferd
+- LinkedIn: www.linkedin.com/in/julius-faubel-574516166/
 - E-mail: faubel.julius@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apifettespferdanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apifettespferd=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
