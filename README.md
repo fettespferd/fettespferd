@@ -1,8 +1,8 @@
 ### Hi, I'm Julius Faubel 👋
 
-Algorithm Engineer at BakerSoft GmbH. :
+Working on personal projects:
 
-- 🔭 I’m currently working on making the bakery shopping more enjoyable.
+- 🔭 I’m currently working on digitalising the german health sector.
 - 🌱 I’m currently learning creating complex Flutter UI.
 - 🤔 I’m trying to help making flutter and life simpler and more enjoyable.
 - 💬 Ask me about my opinion on autonomous driving, sports and travel fun.
